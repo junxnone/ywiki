@@ -1,0 +1,20 @@
+name: Update Sidebar
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  issues:
+    types: [pinned]
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: junxnone/autosidebar@main
+        with:
+          push_branch: "main"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          actor: ${{ github.actor }}
+          docs_path: "docs"
+          root_node: ${{ github.event.repository.name }}
