@@ -2,7 +2,7 @@
 
 | Title     | README                                             |
 | --------- | -------------------------------------------------- |
-| Updated @ | `2024-06-12T11:55:38Z`                             |
+| Updated @ | `2024-07-14T00:25:33Z`                             |
 | Edit @    | [here](https://github.com/junxnone/ywiki/issues/1) |
 
 -----
@@ -11,7 +11,7 @@
 ‌‍‍‌‍​‌‌‍​‍‌‌‌‌​‌‌‍‍‍​‌‍‍‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‍‍‌‌‌​‌‌‍‍‍​‌‌‌‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‌‌‌‌‍​‌‌‍‌​‍‌‌‌‌​‍‍‍‍‍​‍‍‍​‍‌​‌​‌‌‌​‌‌‌‌​‌‌‍il
 faut tenter de vivre.`
 
-This is a \[育儿\] Wiki. <kbd>[Use this
+This is a \[养娃\] Wiki. <kbd>[Use this
 Template](https://github.com/junxnone/ywiki/generate)</kbd>
 
   - [Mindmap -
